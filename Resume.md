@@ -42,5 +42,7 @@
 4.进行单元测试、系统测试和性能测试，确保系统的质量和稳定性
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
-**java**:具备扎实的java基础，对面向对象编程有深刻的理解，熟练掌握java io、集合、多线程、泛型、反射等基础开发技术。
-**数据库**:了解。11111111111111
+**java**:具备扎实的java基础，对面向对象编程有深刻的理解，熟练掌握java io、集合、多线程、泛型、反射等基础开发技术。<br>
+**开发工具**:熟练使用maven、git/svn、idea/eclipse、有linux开发和部署经验。
+**数据库**:熟练掌握mysql、redis、postgresql使用及常见优化手段。
+**框架**：熟练掌握spring、spring MVC、springboot、springCloud、mybatis等开发框架
