@@ -27,7 +27,7 @@
 
 - **和泰通信， 技术与研发部，Java开发工程师，2023.6~2025.5**
 
-   负责 声像系统的维护与开发
+   负责 <img src="assets/project-diagram-solid.svg" width="30px">声像系统的维护与开发
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
