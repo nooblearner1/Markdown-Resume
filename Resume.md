@@ -43,7 +43,7 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 **java**:具备扎实的java基础，对面向对象编程有深刻的理解，熟练掌握java io、集合、多线程、泛型、反射等基础开发技术。<br>
-**开发工具**:熟练使用maven、git/svn、idea/eclipse、有linux开发和部署经验。
-**数据库**:熟练掌握mysql、redis、postgresql使用及常见优化手段。
-**框架**：熟练掌握spring、spring MVC、springboot、springCloud、mybatis等开发框架。
-**前端**：熟练掌握html、css、JavaScript、jquery、vue等前端技术，前后端分离开发经验丰富。
+**开发工具**:熟练使用maven、git/svn、idea/eclipse、有linux开发和部署经验。<br>
+**数据库**:熟练掌握mysql、redis、postgresql使用及常见优化手段。<br>
+**框架**：熟练掌握spring、spring MVC、springboot、springCloud、mybatis等开发框架。<br>
+**前端**：熟练掌握html、css、JavaScript、jquery、vue等前端技术，前后端分离开发经验丰富。<br>
