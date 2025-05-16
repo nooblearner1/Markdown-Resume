@@ -32,7 +32,6 @@
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
 - **声像管理系统**
-
   *基于springboot+springCloud+mybatis+redis+rocketMQ+postgreSQL+vue+Sentinel*
 声像管理系统主要是针对档案馆中图片、视频、音频及其他类电子文件进行管理，实现这些数据的批量上传、在线检索、在线浏览、批量下载的功能。实现对档案文件的电子化、在线预约，方便了对档案信息的查询、借阅、存储。
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
