@@ -21,11 +21,11 @@
  - 工作经验：2 年（校招可不填）
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 学士，江西工程学院，数据科学与大数据技术，2019.9~2013.7
+- 本科，江西工程学院，数据科学与大数据技术，2019.9~2023.7
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- **和泰通信， 技术与研发部，Java开发工程师，2024.3~2025.5**
 
    负责 XXX
 
